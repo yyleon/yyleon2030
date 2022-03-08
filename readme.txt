@@ -5,3 +5,4 @@ Git is a dtistributed version control system.
 Git is free software distributed under the GPL.
 Git tracks changes.
 My stupid boss still prefers SVN.
+It is a good iead.
