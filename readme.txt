@@ -6,3 +6,5 @@ Git is free software distributed under the GPL.
 Git tracks changes.
 My stupid boss still prefers SVN.
 It is a good iead.
+I am very glad to study git tool.
+
