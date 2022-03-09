@@ -7,4 +7,5 @@ Git tracks changes.
 My stupid boss still prefers SVN.
 It is a good iead.
 I am very glad to study git tool.
+Hadoop is a distribution version control tool.
 
